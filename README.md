@@ -40,13 +40,13 @@ http://www.eclipse.org/luna/
 
 
 Experience gained:
-Installation of DTP
-Download Apache Derby
-Developing Java Web Application 
-Servlets, JSPs, Get, Post
-Connecting database information into Java program
-Configuration
-Working with Databases
-Create a new Databases Connection
-Using SQL Statements
-Maintaining data in a table
+Installation of DTP,
+Download Apache Derby,
+Developing Java Web Application, 
+Servlets, JSPs, Get, Post,
+Connecting database information into Java program,
+Configuration,
+Working with Databases,
+Create a new Databases Connection,
+Using SQL Statements,
+Maintaining data in a table,
