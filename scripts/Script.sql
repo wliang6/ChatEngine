@@ -1,0 +1,5 @@
+--<ScriptOptions statementTerminator=";"/>
+
+CREATE TABLE WEBCHATDATABASE.MYTABLE
+(  USERNAME VARCHAR(2000),
+  MESSAGE VARCHAR(2000));
